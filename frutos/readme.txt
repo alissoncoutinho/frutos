@@ -28,3 +28,6 @@ python manage.py makemigrations
 comando para rodar o script criado acima:
 python manage.py migrate
 
+
+)ocx@r%ed^w)j$vw9zphbjp(t)7gb57hl891cbc&o%ss_x*350
+
